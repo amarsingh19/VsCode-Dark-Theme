@@ -1,0 +1,21 @@
+{
+    "name": "darkcolored",
+    "displayName": "DarkColored",
+    "description": "A cool dark theme but with some bright colors for selection",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark But Colored",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark But Colored-color-theme.json"
+            }
+        ]
+    }
+}
